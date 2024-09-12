@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mattiameneguolo&label=Profile%20views&color=0e75b6&style=flat" alt="mattiameneguolo" /> </p>
 
-- 🔭 I’m currently working on [**Estrella**](https://www.google.com)
+- 🔭 I’m currently working on **Estrella**
 
 - 📖 I’m currently studying **Computer Science at University of Padua (IT)**
 
